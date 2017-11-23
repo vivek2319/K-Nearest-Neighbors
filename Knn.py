@@ -93,6 +93,7 @@ plt.xlabel('K')
 
 plt.ylabel('Error Rate')
 
+#Output for this code can be viewed at : https://tinyurl.com/y8p2kddm
 
 #Here we can see that that after arouns K>23 the error rate just tends to hover 
 #around 0.06-0.05 Let's retrain the model with that and check the classification report!
