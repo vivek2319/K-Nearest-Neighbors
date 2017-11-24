@@ -6,7 +6,7 @@ K nearest neighbors is a simple algorithm that stores all available cases and cl
 on a similarity measure (e.g., distance functions). KNN has been used in statistical estimation and pattern 
 recognition already in the beginning of 1970’s as a non-parametric technique.
 ----------------------------------------------------------------------------------------------------------------
-_Knn uses follwoing as a distance function. :  
+_Knn uses follwoing as a distance function_ :  
 
   ![knn](http://www.saedsayad.com/images/KNN_similarity.png)
  
