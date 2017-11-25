@@ -10,13 +10,13 @@ _Knn uses follwoing as a distance function_ :
 
   ![knn](http://www.saedsayad.com/images/KNN_similarity.png)
  
-1) Euclidean distance is calculated as the square root of the sum of the squared differences between a new point (x) and an existing point (xi) across all input attributes j.
+**1)Euclidean distance** is calculated as the square root of the sum of the squared differences between a new point (x) and an existing point (xi) across all input attributes j.
 
 EuclideanDistance(x, xi) = sqrt( sum( (xj – xij)^2 ) )
 
-2) Manhattan Distance: Calculate the distance between real vectors using the sum of their absolute difference. Also called City Block Distance. 
+**2)Manhattan Distance:** Calculate the distance between real vectors using the sum of their absolute difference. Also called City Block Distance. 
 
-3) Minkowski Distance: Generalization of Euclidean and Manhattan distance.
+**3)Minkowski Distance:** Generalization of Euclidean and Manhattan distance.
 
 **Different disciplines in KNN**
 
