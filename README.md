@@ -41,6 +41,6 @@ not be calculated. These samples could be excluded or the missing values could b
 
 **3)Lower Dimensionality:** KNN is suited for lower dimensional data. You can try it on high dimensional data 
 (hundreds or thousands of input variables) but be aware that it may not perform as well as other techniques. 
-KNN can benefit from feature selection that reduces the dimensionality of the input feature space
+KNN can benefit from feature selection that reduces the dimensionality of the input feature space.
 
 Source: https://tinyurl.com/y8fh9fgn
