@@ -68,7 +68,7 @@ print(confusion_matrix(y_test,pred))
 #
 #avg / total       0.90      0.90      0.90       300
 
-Choosing a K Value
+#Choosing a K Value
 
 #Let's go ahead and use the elbow method to pick a good K Value:
 
@@ -110,7 +110,7 @@ print(confusion_matrix(y_test,pred))
 print('\n')
 print(classification_report(y_test,pred))
 
-WITH K=1
+#WITH K=1
 
 #[[125  18]
 # [ 13 144]]
@@ -136,7 +136,7 @@ print(confusion_matrix(y_test,pred))
 print('\n')
 print(classification_report(y_test,pred))
 
-WITH K=23
+#WITH K=23
 
 
 #[[132  11]
